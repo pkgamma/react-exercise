@@ -12,7 +12,8 @@ class Instructions extends Component {
     if (shouldDisplayImage) {
       return (
         <div className="instructions">
-          Follow the instructions on the README to get started!
+          Making some changes in the Instructions component, and it gets
+          rendered to the index.html file! How cool is that!
           <img
             className="instructions__logo"
             src="https://uiuc.hack4impact.org/img/colored-logo.png"
